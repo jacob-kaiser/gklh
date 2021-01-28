@@ -5,7 +5,9 @@ body {
   }
 
 main {
-
+  max-width: 38rem;
+  padding: 2rem;
+  margin:auto;
 }
 
 header {
@@ -71,4 +73,7 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+.white {
+  color:#70AB8F;
 }
